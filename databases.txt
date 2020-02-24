@@ -1,0 +1,31 @@
+What is a Database? 
+A program designed to hold data for users.
+
+Why is an Database necessary? 
+Allows for more storage space for users.
+
+What can be stored in a Database? 
+Usernames, Passwords, Emails. Anyhting saved on a computer.
+
+What types of Databases are there? 
+Users, graphs.
+
+Why would I use one over the other? 
+different jobs require different Databases.
+
+What is a Query? 
+an objective of searching a database
+
+
+What is Encryption? 
+a security protocol for databases to protect information
+
+Why is it important at the Database level? 
+protect information such as identity.
+
+What is Object Permanence? 
+Object Permanence is when certain parts of the data
+are remembered even when hidden.
+
+Where can your Database live? 
+They can live in providers, or within your own code.
